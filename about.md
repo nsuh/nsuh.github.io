@@ -8,6 +8,6 @@ Computer science and mathematics student from UC Davis.  Some interests include:
 
 
 
-### Contact me
+### Contact me at:
 
-[Contact me at: ](mailto:nathansuh1@gmail.com)
+[my email](mailto:nathansuh1@gmail.com)
