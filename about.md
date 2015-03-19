@@ -10,4 +10,4 @@ Computer science and mathematics student from UC Davis.  Some interests include:
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Contact me at: ](mailto:nathansuh1@gmail.com)
