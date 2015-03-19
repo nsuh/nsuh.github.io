@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer science and mathematics student from UC Davis.  Some interests include: machine learning, distributed systems, coffee, weightlifting, making music.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
